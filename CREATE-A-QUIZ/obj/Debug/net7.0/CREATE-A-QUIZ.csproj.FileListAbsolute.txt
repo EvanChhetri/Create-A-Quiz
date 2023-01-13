@@ -1,0 +1,15 @@
+F:\C#\CREATE-A-QUIZ\bin\Debug\net7.0\CREATE-A-QUIZ.exe
+F:\C#\CREATE-A-QUIZ\bin\Debug\net7.0\CREATE-A-QUIZ.deps.json
+F:\C#\CREATE-A-QUIZ\bin\Debug\net7.0\CREATE-A-QUIZ.runtimeconfig.json
+F:\C#\CREATE-A-QUIZ\bin\Debug\net7.0\CREATE-A-QUIZ.dll
+F:\C#\CREATE-A-QUIZ\bin\Debug\net7.0\CREATE-A-QUIZ.pdb
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.csproj.AssemblyReference.cache
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.AssemblyInfoInputs.cache
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.AssemblyInfo.cs
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.csproj.CoreCompileInputs.cache
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.dll
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\refint\CREATE-A-QUIZ.dll
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.pdb
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\CREATE-A-QUIZ.genruntimeconfig.cache
+F:\C#\CREATE-A-QUIZ\obj\Debug\net7.0\ref\CREATE-A-QUIZ.dll
